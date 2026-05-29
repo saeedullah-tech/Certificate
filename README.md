@@ -1,4 +1,4 @@
-# 📜 Professional Certificates — Saeed [Last Name]
+# 📜 Professional Certificates — Saeed Ullah
 
 A verified collection of certificates.
 Each certificate is available in both **image preview** and **PDF** format.
@@ -7,7 +7,7 @@ Each certificate is available in both **image preview** and **PDF** format.
 ## Bachelor Degree
 **Year:** 2024
 
-![Power BI Certificate](https://github.com/saeedullah-tech/saeedullah-tech/blob/0f38541a6fa0ebdce9dff91a4aaeb4b09ee3c9a0/Degree.png)
+![Certificate](https://github.com/saeedullah-tech/saeedullah-tech/blob/0f38541a6fa0ebdce9dff91a4aaeb4b09ee3c9a0/Degree.png)
 
 📄 [Download PDF]([./power-bi/microsoft-power-bi-certificate.pdf](https://github.com/saeedullah-tech/saeedullah-tech/blob/0f38541a6fa0ebdce9dff91a4aaeb4b09ee3c9a0/degree%20certificate.pdf))
 
@@ -17,28 +17,45 @@ Each certificate is available in both **image preview** and **PDF** format.
 
 ### Freelancing
 
-![Power BI Certificate](https://github.com/saeedullah-tech/saeedullah-tech/blob/ff3f6341dfbcf8fa434802edf71e19678fdcf89f/Freelanceing%20Certificate.png)
+![Certificate](https://github.com/saeedullah-tech/saeedullah-tech/blob/ff3f6341dfbcf8fa434802edf71e19678fdcf89f/Freelanceing%20Certificate.png)
 
 📄 [Download PDF](https://github.com/saeedullah-tech/saeedullah-tech/blob/0f38541a6fa0ebdce9dff91a4aaeb4b09ee3c9a0/DSTP_Certificate_%20BM7QN7UMK.pdf)
 
 ---
+### Power BI for Data Analysis
+
+![Certificate](https://github.com/saeedullah-tech/saeedullah-tech/blob/0f38541a6fa0ebdce9dff91a4aaeb4b09ee3c9a0/10066650_Power_BI_for_Beginners_9802439.pdf)
+
+📄 [Download PDF](https://github.com/saeedullah-tech/saeedullah-tech/blob/0f38541a6fa0ebdce9dff91a4aaeb4b09ee3c9a0/10066650_Power_BI_for_Beginners_9802439.pdf)
+
+---
 
 ### SQL for Data Analysis
-**Issuer:** [Platform Name] | **Year:** 2024
 
-![SQL Certificate](./sql/sql-certificate.png)
+![SQL Certificate](https://github.com/saeedullah-tech/saeedullah-tech/blob/ff3f6341dfbcf8fa434802edf71e19678fdcf89f/SQL.png)
 
-📄 [Download PDF](./sql/sql-certificate.pdf)
+📄 [Download PDF](https://github.com/saeedullah-tech/saeedullah-tech/blob/b4e8564db1f656f20f2a1626a9355f2a30c36839/10066650_Introduction_to_SQL_9976414.pdf)
 
 ---
 
 ### Microsoft Excel — Data Analytics
-**Issuer:** Microsoft | **Year:** 2024
 
-![Excel Certificate](./excel/excel-certificate.png)
+![Excel Certificate](https://github.com/saeedullah-tech/saeedullah-tech/blob/b4e8564db1f656f20f2a1626a9355f2a30c36839/MS%20Excel%20Certificate.png)
 
-📄 [Download PDF](./excel/excel-certificate.pdf)
-
+📄 [Download PDF](https://github.com/saeedullah-tech/saeedullah-tech/blob/b4e8564db1f656f20f2a1626a9355f2a30c36839/10066650_Introduction_to_MS_Excel_9784877.pdf)
 ---
 
-## 🗂️ Repository Structure
+###  Web Designing & WordPress
+
+![ Certificate](https://github.com/saeedullah-tech/saeedullah-tech/blob/b4e8564db1f656f20f2a1626a9355f2a30c36839/Web%20Designing.png)
+
+📄 [Download PDF](https://github.com/saeedullah-tech/saeedullah-tech/blob/b4e8564db1f656f20f2a1626a9355f2a30c36839/WordPress%20designer%20certificate.pdf)
+---
+
+### Soft Skill
+
+![Certificate](https://github.com/saeedullah-tech/saeedullah-tech/blob/b4e8564db1f656f20f2a1626a9355f2a30c36839/Soft%20Skill%20Certificate.png)
+
+📄 [Download PDF](https://github.com/saeedullah-tech/saeedullah-tech/blob/b4e8564db1f656f20f2a1626a9355f2a30c36839/certificate_softskill_822bb063.pdf)
+
+---
