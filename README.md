@@ -1,15 +1,43 @@
 # 📜 Professional Certificates — Saeed [Last Name]
 
-This repository contains verified certificates earned in data analytics tools and techniques.
+A verified collection of certificates earned in data analytics, business intelligence, and related tools.
+Each certificate is available in both **image preview** and **PDF** format.
 
-## Certificates
+---
+## Bachelor Degree
+**Issuer:** Microsoft | **Year:** 2024
 
-| Certificate | Issuer | Year | View |
-|-------------|--------|------|------|
-| Microsoft Power BI | Microsoft | 2024 | [PDF](https://github.com/saeedullah-tech/saeedullah-tech/blob/0f38541a6fa0ebdce9dff91a4aaeb4b09ee3c9a0/certificate_softskill_822bb063.pdf) |
-| SQL for Data Analysis | [Platform] | 2024 | [PDF](./sql/sql-certificate.pdf) |
-| Excel for Data Analytics | [Platform] | 2024 | [PDF](./excel/excel-certificate.pdf) |
+![Power BI Certificate](https://github.com/saeedullah-tech/saeedullah-tech/blob/0f38541a6fa0ebdce9dff91a4aaeb4b09ee3c9a0/Degree.png)
 
-## Contact
-- LinkedIn: [your LinkedIn URL]
-- Email: your@email.com
+📄 [Download PDF]([./power-bi/microsoft-power-bi-certificate.pdf](https://github.com/saeedullah-tech/saeedullah-tech/blob/0f38541a6fa0ebdce9dff91a4aaeb4b09ee3c9a0/degree%20certificate.pdf))
+
+## 📊 Data Analytics & Business Intelligence
+
+### Microsoft Power BI
+**Issuer:** Microsoft | **Year:** 2024
+
+![Power BI Certificate](./power-bi/microsoft-power-bi-certificate.png)
+
+📄 [Download PDF](./power-bi/microsoft-power-bi-certificate.pdf)
+
+---
+
+### SQL for Data Analysis
+**Issuer:** [Platform Name] | **Year:** 2024
+
+![SQL Certificate](./sql/sql-certificate.png)
+
+📄 [Download PDF](./sql/sql-certificate.pdf)
+
+---
+
+### Microsoft Excel — Data Analytics
+**Issuer:** Microsoft | **Year:** 2024
+
+![Excel Certificate](./excel/excel-certificate.png)
+
+📄 [Download PDF](./excel/excel-certificate.pdf)
+
+---
+
+## 🗂️ Repository Structure
