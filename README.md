@@ -24,7 +24,7 @@ Each certificate is available in both **image preview** and **PDF** format.
 ---
 ### Power BI for Data Analysis
 
-![Certificate](https://github.com/saeedullah-tech/saeedullah-tech/blob/0f38541a6fa0ebdce9dff91a4aaeb4b09ee3c9a0/10066650_Power_BI_for_Beginners_9802439.pdf)
+![Certificate](https://github.com/saeedullah-tech/saeedullah-tech/blob/b4e8564db1f656f20f2a1626a9355f2a30c36839/Power%20BI%20Certificate.png)
 
 📄 [Download PDF](https://github.com/saeedullah-tech/saeedullah-tech/blob/0f38541a6fa0ebdce9dff91a4aaeb4b09ee3c9a0/10066650_Power_BI_for_Beginners_9802439.pdf)
 
@@ -44,6 +44,14 @@ Each certificate is available in both **image preview** and **PDF** format.
 
 📄 [Download PDF](https://github.com/saeedullah-tech/saeedullah-tech/blob/b4e8564db1f656f20f2a1626a9355f2a30c36839/10066650_Introduction_to_MS_Excel_9784877.pdf)
 ---
+### Introduction To Finance & Accounting
+
+![Certificate](https://github.com/saeedullah-tech/saeedullah-tech/blob/b4e8564db1f656f20f2a1626a9355f2a30c36839/Introduction%20to%20Finance%20and%20Accounting.png)
+
+📄 [Download PDF](https://github.com/saeedullah-tech/saeedullah-tech/blob/b4e8564db1f656f20f2a1626a9355f2a30c36839/10371177_Introduction_to_Finance_and_Accounting_10107047.pdf)
+
+---
+
 
 ###  Web Designing & WordPress
 
